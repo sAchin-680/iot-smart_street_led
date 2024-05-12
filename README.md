@@ -1,7 +1,19 @@
 SMART STREET LED 
+
+
+
+
 The Smart Street LED System merges Arduino technology with advanced light sensors to revolutionize urban lighting. By dynamically adjusting street lighting in response to real-time environmental data, this innovative solution optimizes energy consumption and enhances safety. It offers a sustainable and efficient alternative to traditional street lighting, contributing to the development of smart cities. Through its adaptive features and energy-saving capabilities, the Smart Street LED System represents a pivotal advancement in urban infrastructure management, ensuring well-lit and safe streets while reducing environmental impact. This system sets a new standard for intelligent lighting solutions in modern urban environments.
 
+
+
+
+
 Features of the Smart Street LED System:
+
+
+
+
 
 Real-time Monitoring: Constantly monitors ambient light levels and traffic density to adjust street lighting accordingly.
 
@@ -45,7 +57,11 @@ smart city infrastructure, allowing for centralized monitoring and control of st
 
 
 
+
 Components Used in the Smart Street LED System:
+
+
+
 
 Arduino Microcontroller: Acts as the central processing unit to receive sensor data, execute algorithms, and control LED lighting fixtures.
 
